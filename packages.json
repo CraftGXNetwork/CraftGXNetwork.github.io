@@ -2,17 +2,17 @@
     "minimumVersion": 1,
     "packages": [
         {
-            "name": "Light Modpack",
-            "title": "Light Modpack",
+            "name": "Ultra Pack",
+            "title": "Ultra Pack",
             "version": "20100223",
-            "location": "lightpack.json",
+            "location": "ultrapack.json",
             "priority": 1
         },
         {
-            "name": "Monster Modpack",
-            "title": "Monster Modpack",
+            "name": "A Era Do Futuro 4",
+            "title": "A Era Do Futuro 4.json",
             "version": "20100223",
-            "location": "monsterpack.json",
+            "location": "aedf4.json",
             "priority": 1
         }
     ]
