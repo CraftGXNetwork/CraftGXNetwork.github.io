@@ -1,0 +1,18 @@
+{
+    "maintenance": false,
+    "maintenance_message": "O servidor está em manutenção.<br>Tente novamente mais tarde.",
+    "online": true,
+    "client_id": "",
+    "game_version": "1.0",
+    "modde": false,
+    "verify": false,
+    "java": true,
+    "game_args": [],
+    "dataDirectory": "minecraft",
+    "ignored": ["crash-reports", "logs", "resourcepacks", "resources", "saves", "shaderpacks", "options.txt", "optionsof.txt"],
+    "status": {
+        "nameServer": "CraftGX Network",
+        "ip": "127.0.0.1",
+        "port": 25631
+    }
+}
